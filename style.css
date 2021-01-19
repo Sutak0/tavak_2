@@ -1,0 +1,50 @@
+
+table{
+    border: 3px solid rgb(189, 189, 190);
+    border-radius: 5px;
+    padding: 1.5px;
+}
+td, th{
+    width: 80px;
+    height: 45px;
+    border-radius: 5px;
+    border-bottom: 2px solid rgb(0, 0, 129);
+   border-right: 2px solid rgb(0, 0, 129);
+   font-size: 12px;
+   padding: 1px;
+   text-align: center;
+   color: rgb(0, 0, 169);
+   background-color: rgb(234, 239, 245);
+}
+td{
+    background-color: rgb(234, 229, 245);
+}
+
+thead .vilagoskek {
+     font-weight: bold;
+     background-color: rgb(185, 186, 253);
+}
+
+tbody .vilagoskek {
+    font-weight: normal;
+    background-color: rgb(185, 186, 253);
+}
+ 
+.sotetkek{
+    font-weight: bold;
+    background-color: rgb(155, 156, 253);
+}
+
+thead .szurke {
+    font-weight: bold;
+    background-color: rgb(184, 184, 184);
+}
+
+tbody .szurke {
+    background-color: rgb(213, 214, 214);
+}
+
+tbody .sotetpiros{
+    color: crimson;
+    font-weight: bold;
+}
